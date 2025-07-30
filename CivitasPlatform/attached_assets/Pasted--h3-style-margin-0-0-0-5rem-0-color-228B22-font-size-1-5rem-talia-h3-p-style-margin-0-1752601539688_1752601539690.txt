@@ -1,0 +1,84 @@
+<h3 style="margin: 0 0 0.5rem 0; color: #228B22; font-size: 1.5rem;">talia</h3>
+<p style="margin: 0 0 1.5rem 0; color: #666; font-style: italic; line-height: 1.4;">
+    No description provided.
+</p>
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 1.5rem; margin-bottom: 1.5rem;">
+    <div style="text-align: center; padding: 1rem; background: #f8f9fa; border-radius: 10px;">
+        <div style="font-size: 1.8rem; color: #228B22; font-weight: bold;">Rs. 5,000</div>
+        <div style="color: #666; font-size: 0.9rem;">Monthly Payment</div>
+    </div>
+    <div style="text-align: center; padding: 1rem; background: #f8f9fa; border-radius: 10px;">
+        <div style="font-size: 1.8rem; color: #FFD700; font-weight: bold;">1/10</div>
+        <div style="color: #666; font-size: 0.9rem;">Members</div>
+        <div style="background: #e0e0e0; border-radius: 10px; height: 6px; margin-top: 8px;">
+            <div style="background: #228B22; border-radius: 10px; height: 6px; width: 10.0%;"></div>
+        </div>
+    </div>
+    <div style="text-align: center; padding: 1rem; background: #f8f9fa; border-radius: 10px;">
+        <div style="font-size: 1.8rem; color: #20B2AA; font-weight: bold;">12</div>
+        <div style="color: #666; font-size: 0.9rem;">Months Duration</div>
+    </div>
+    <div style="text-align: center; padding: 1rem; background: #f8f9fa; border-radius: 10px;">
+        <div style="font-size: 1.8rem; color: #9370DB; font-weight: bold;">Rs. 50,000</div>
+        <div style="color: #666; font-size: 0.9rem;">Est. Payout</div>
+    </div>
+</div>
+
+<div style="display: flex; justify-content: space-between; align-items: center; padding-top: 1rem; border-top: 1px solid #eee;">
+    <div style="display: flex; gap: 1rem; align-items: center;">
+        <span style="background: #E6E6FA; color: #4B0082; padding: 0.2rem 0.6rem; border-radius: 15px; font-size: 0.8rem;">
+            📂 General
+        </span>
+        <span style="background: #F0F8F0; color: #228B22; padding: 0.2rem 0.6rem; border-radius: 15px; font-size: 0.8rem;">
+            🔄 Monthly
+        </span>
+        <span style="color: #999; font-size: 0.8rem;">
+            📅 Created: 2025-07-15
+        </span>
+    </div>
+</div>
+
+
+
+✅ Available
+<h3 style="margin: 0 0 0.5rem 0; color: #228B22; font-size: 1.5rem;">talia</h3>
+<p style="margin: 0 0 1.5rem 0; color: #666; font-style: italic; line-height: 1.4;">
+    No description provided.
+</p>
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 1.5rem; margin-bottom: 1.5rem;">
+    <div style="text-align: center; padding: 1rem; background: #f8f9fa; border-radius: 10px;">
+        <div style="font-size: 1.8rem; color: #228B22; font-weight: bold;">Rs. 5,000</div>
+        <div style="color: #666; font-size: 0.9rem;">Monthly Payment</div>
+    </div>
+    <div style="text-align: center; padding: 1rem; background: #f8f9fa; border-radius: 10px;">
+        <div style="font-size: 1.8rem; color: #FFD700; font-weight: bold;">1/10</div>
+        <div style="color: #666; font-size: 0.9rem;">Members</div>
+        <div style="background: #e0e0e0; border-radius: 10px; height: 6px; margin-top: 8px;">
+            <div style="background: #228B22; border-radius: 10px; height: 6px; width: 10.0%;"></div>
+        </div>
+    </div>
+    <div style="text-align: center; padding: 1rem; background: #f8f9fa; border-radius: 10px;">
+        <div style="font-size: 1.8rem; color: #20B2AA; font-weight: bold;">12</div>
+        <div style="color: #666; font-size: 0.9rem;">Months Duration</div>
+    </div>
+    <div style="text-align: center; padding: 1rem; background: #f8f9fa; border-radius: 10px;">
+        <div style="font-size: 1.8rem; color: #9370DB; font-weight: bold;">Rs. 50,000</div>
+        <div style="color: #666; font-size: 0.9rem;">Est. Payout</div>
+    </div>
+</div>
+
+<div style="display: flex; justify-content: space-between; align-items: center; padding-top: 1rem; border-top: 1px solid #eee;">
+    <div style="display: flex; gap: 1rem; align-items: center;">
+        <span style="background: #E6E6FA; color: #4B0082; padding: 0.2rem 0.6rem; border-radius: 15px; font-size: 0.8rem;">
+            📂 General
+        </span>
+        <span style="background: #F0F8F0; color: #228B22; padding: 0.2rem 0.6rem; border-radius: 15px; font-size: 0.8rem;">
+            🔄 Monthly
+        </span>
+        <span style="color: #999; font-size: 0.8rem;">
+            📅 Created: 2025-07-15
+        </span>
+    </div>
+</div>
